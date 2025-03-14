@@ -1,0 +1,14 @@
+pydantic
+streamlit
+groq
+pandas
+typing
+pymongo
+google-generativeai
+ipython
+sentence-transformers
+gradio
+semantic_router
+uvicorn
+fastapi
+pyvi
